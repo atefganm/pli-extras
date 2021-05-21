@@ -1,0 +1,39 @@
+[submodule "meta-dream"]
+	path = meta-dream
+	url = https://github.com/PLi-metas/meta-dream.git
+[submodule "meta-ini"]
+	path = meta-ini
+	url = https://github.com/PLi-metas/meta-ini.git
+[submodule "meta-fulan"]
+	path = meta-fulan
+	url = https://github.com/PLi-metas/meta-fulan.git
+[submodule "meta-raspberrypi"]
+	path = meta-raspberrypi
+	url = https://github.com/PLi-metas/meta-raspberrypi.git
+[submodule "meta-odin"]
+	path = meta-odin
+	url = https://github.com/PLi-metas/meta-odin
+[submodule "meta-octagon"]
+	path = meta-octagon
+	url = https://github.com/PLi-metas/meta-octagon.git
+[submodule "meta-dags"]
+	path = meta-dags
+	url = https://github.com/PLi-metas/meta-dags.git
+[submodule "meta-entwopia"]
+	path = meta-entwopia
+	url = https://github.com/PLi-metas/meta-entwopia.git
+[submodule "meta-xcore"]
+	path = meta-xcore
+	url = https://github.com/PLi-metas/meta-xcore.git
+[submodule "meta-amlogic"]
+	path = meta-amlogic
+	url = https://github.com/PLi-metas/meta-amlogic.git
+[submodule "meta-ceryon"]
+	path = meta-ceryon
+	url = https://github.com/PLi-metas/meta-ceryon.git
+[submodule "meta-dinobot"]
+	path = meta-dinobot
+	url = https://github.com/PLi-metas/meta-dinobot.git
+[submodule "meta-azbox"]
+	path = meta-azbox
+	url = https://github.com/PLi-metas/meta-azbox.git
